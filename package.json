@@ -1,0 +1,40 @@
+{
+  "name": "js-dojo-vol3",
+  "version": "0.0.1",
+  "description": "js-dojo-vol3",
+  "main": "npm start",
+  "devDependencies": {
+    "connect-livereload": "^0.3.2",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^5.0.3",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-coffee": "^0.7.0",
+    "grunt-contrib-connect": "^0.5.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-less": "^0.8.3",
+    "grunt-contrib-sass": "^0.5.1",
+    "grunt-contrib-stylus": "^0.11.0",
+    "grunt-contrib-watch": "^0.5.3",
+    "grunt-open": "^0.2.3",
+    "grunt-typescript": "~0.2.7",
+    "matchdep": "^0.3.0"
+  },
+  "scripts": {
+    "start": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dh-js-dojo/vol3-lightbox"
+  },
+  "keywords": [
+    "javascript",
+    "html"
+  ],
+  "author": "dh-js-dojo",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/dh-js-dojo/vol3-lightbox/issues"
+  }
+}
